@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Santhosh Reddy.</h1>
 <h3 align="center" </h3>
 
-<p> I'm a passionate **Full-Stack Developer** with a love for creating seamless, dynamic, and user-friendly applications. From crafting sleek front-end designs to building robust back-end systems, I enjoy diving into every layer of development.  
-I thrive on solving complex problems, learning new technologies, and turning ideas into functional, scalable solutions. Whether it's **React**, **Node.js**, **Python**, or **SQL**, I love exploring the endless possibilities of code!  
+<p> I'm a passionate Full-Stack Developer with a love for creating seamless, dynamic, and user-friendly applications. From crafting sleek front-end designs to building robust back-end systems, I enjoy diving into every layer of development.  
+I thrive on solving complex problems, learning new technologies, and turning ideas into functional, scalable solutions. Whether it's React, Node.js, Python, or SQL, I love exploring the endless possibilities of code!  
 In my free time, I’m probably experimenting with new frameworks, debugging the un-debuggable, or binge-watching tech talks. Let’s build something amazing together! 🚀  
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhoshreddy824&label=Profile%20views&color=0e75b6&style=flat" alt="santhoshreddy824" /> </p>
