@@ -15,7 +15,7 @@ In my free time, I’m probably experimenting with new frameworks, debugging the
 
 - 📫 How to reach me **psathoshreddy2004@gmail.com**
 
-- ⚡ Fun fact **I love exploring new programming languages. Each one feels like discovering a new superpower.**
+- ⚡ Fun fact : **I love exploring new programming languages. Each one feels like discovering a new superpower.**
 
   <p><img align="right"<img src="https://camo.githubusercontent.com/659bc85306398aa85eb8011d7a7beb26ccfe6bd01632377766df39fbe19c29f1/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313335382f312a557263323873626e4f52474f57356f796f68513036672e676966" height="430" width="480"/> </p>
 
