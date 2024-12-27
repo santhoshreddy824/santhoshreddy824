@@ -17,7 +17,7 @@ In my free time, I’m probably experimenting with new frameworks, debugging the
 
 - ⚡ Fun fact : **I love exploring new programming languages. Each one feels like discovering a new superpower.**
 
-  <p><img align="right"<img src="https://camo.githubusercontent.com/659bc85306398aa85eb8011d7a7beb26ccfe6bd01632377766df39fbe19c29f1/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313335382f312a557263323873626e4f52474f57356f796f68513036672e676966" height="380" width="480"/> </p>
+  <p><img align="right"<img src="https://camo.githubusercontent.com/659bc85306398aa85eb8011d7a7beb26ccfe6bd01632377766df39fbe19c29f1/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313335382f312a557263323873626e4f52474f57356f796f68513036672e676966" height="340" width="480"/> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,6 +29,6 @@ In my free time, I’m probably experimenting with new frameworks, debugging the
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santhoshreddy824&show_icons=true&locale=en&layout=compact" alt="santhoshreddy824" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santhoshreddy824&show_icons=true&locale=en" alt="santhoshreddy824" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=santhoshreddy824&show_icons=true&locale=en" alt="santhoshreddy824" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshreddy824&" alt="santhoshreddy824" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshreddy824&" alt="santhoshreddy824" /></p>
