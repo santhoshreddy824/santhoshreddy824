@@ -13,7 +13,7 @@ In my free time, I’m probably experimenting with new frameworks, debugging the
 
 - 💬 Ask me about **html, css, bootstrap, java, python, ms office, etc....**
 
-- 📫 How to reach me **psathoshreddy2004@gmail.com**
+- 📫 How to reach me **santhoshreddy8125@gmail.com**
 
 - ⚡ Fun fact : **I am funny.**
 
